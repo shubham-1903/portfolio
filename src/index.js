@@ -12,7 +12,7 @@ ReactDOM.render(
 		<Auth0Provider
 			domain="dev-zi3abf69.us.auth0.com"
 			clientId="MduyHIN5SMcOp4LAqn1dIyr8lVtNSwIh"
-			redirectUri={window.location.origin}
+			redirectUri="https://dreamy-goldstine-0971bd.netlify.app/"
 		>
 			<App />
 		</Auth0Provider>
